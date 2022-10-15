@@ -1,11 +1,12 @@
 {
   "name": "stt1-syntax",
+  "main": "ลอง",
   "theme": "syntax",
-  "version": "0.2.0",
+  "version": "0.1.0",
   "description": "A short description of your syntax theme",
   "keywords": [
-    "syntax",
-    "theme"
+    "เว็บตรง",
+    "สล็อตpg"
   ],
   "repository": "https://github.com/anomarn4dx/stt1-syntax.git",
   "license": "MIT",
